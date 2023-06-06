@@ -17,15 +17,19 @@
     </head>
     <body class="antialiased" style="display:flex; flex-flow:wrap column; text-align:center;">
 
-        <h1>
+        <h3>
             <b>Delthac 1 Security</b>
-        </h1>
+        </h3>
         
         <p>
-            We're working for make a new property!
-            <br/>   
-            <b>Except us</b>
+            We're working to make a new property!
         </p>
+
+        <br/>   
+
+        <h4>
+            <b>ICT</b>
+        </h4>
 
     </body>
 </html>
